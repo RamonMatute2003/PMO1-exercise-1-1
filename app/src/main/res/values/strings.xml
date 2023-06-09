@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PMO1-exercise 1.1</string>
+    <string name="btn_sum">Sumar</string>
+    <string name="btn_subtract">Restar</string>
+    <string name="btn_division">División</string>
+    <string name="btn_multiplication">Multiplicación</string>
+    <string name="number1">Numero 1</string>
+    <string name="number2">Numero 2</string>
+    <string name="enter_number">Ingresa un numero</string>
+</resources>
